@@ -22,5 +22,6 @@ public class BaseClass {
 			    
 		   //global wait
 		   driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		System.out.println("Vidyadhar");
 	}
 }
